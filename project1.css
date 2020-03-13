@@ -1,9 +1,39 @@
-#boxer > img {
-    float: left;
-    height: 445;
-    width: 326;
-    margin-top: 10px;
-    margin-left: 8 px;
-    margin-right: 8 px;
-    margin-bottom: 5px;
+#boxer { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
 }
+
+#button_onclick{ 
+   display: flex;
+   align-items: center;
+   justify-content: center;
+} 
+ 
+
+
+#german_shepard {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: #001f3f;
+}
+#section {
+    font-family: roboto;
+    font-size: 95px;
+    text-align: center;
+}
+
+#title {
+    font-family: arial;
+    font-size: 100px;
+    text-align: center;
+}
+
+#div_id {
+    font-family
+} 
